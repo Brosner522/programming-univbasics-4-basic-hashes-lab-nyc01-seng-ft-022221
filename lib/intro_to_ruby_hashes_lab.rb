@@ -12,7 +12,7 @@ def pioneer
 end
 
 
-def id_hash_generator (3)
-  { id: '3'}
+def id_hash_generator (four)
+  { id: four}
   # return a hash with a key :id assigned to the provided number
 end
