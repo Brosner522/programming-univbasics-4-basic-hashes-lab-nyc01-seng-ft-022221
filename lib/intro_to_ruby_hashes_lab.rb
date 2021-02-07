@@ -13,6 +13,6 @@ end
 
 
 def id_hash_generator (3)
-  { id: 3}
+  { id: '3'}
   # return a hash with a key :id assigned to the provided number
 end
